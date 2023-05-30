@@ -3,6 +3,7 @@ import pandas as pd
 from unidecode import unidecode
 
 
+
 class TitleDictionary:
 
     def __init__(self, csv_path):
